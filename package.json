@@ -1,7 +1,7 @@
 {
   "name": "tradie-template-react",
   "main": "./dist/index.js",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "A React template for tradie.",
   "keywords": [
     "tradie",
@@ -11,9 +11,6 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:jameslnewell/tradie-template-react.git"
-  },
-  "peerDependencies": {
-    "tradie": ">=0.6.0"
   },
   "devDependencies": {
     "babel-cli": "^6.5.1",
